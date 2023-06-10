@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+.my-card:hover{
+    transform: scale(1.1);
+}
+.my-bg-card{
+    background-image: linear-gradient(to bottom, #846bd1, #0090f0, #00aef2, #00c5dd, #00d7bd, #48e0aa, #75e894, #a0ed7c, #b3f174, #c6f56c, #daf865, #effb5f);
+    border-style: hidden;
+box-shadow: 5px 5px 6px 5px #333333;
+
+}
+
+.my-card-text{
+    font-family: 'Share Tech Mono', monospace;
+    text-transform: uppercase;
+}
+
+.button:hover{
+    outline-offset: 3px;
+}
